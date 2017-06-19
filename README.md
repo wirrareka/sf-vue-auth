@@ -1,2 +1,6 @@
 # Soundfile.io Authorization JS/Vue Client
-# sf-vue-auth
+
+```
+const auth = require('sf-vue-auth');
+Vue.use(auth);
+```
