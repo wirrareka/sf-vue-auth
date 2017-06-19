@@ -1,0 +1,14 @@
+{
+  "name": "sf-vue-auth",
+  "version": "0.2.0",
+  "description": "Soundfile.io Auth client for Vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matej Drzik",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "axios": "^0.16.2"
+  }
+}
